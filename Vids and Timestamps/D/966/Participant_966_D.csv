@@ -1,0 +1,149 @@
+time,annotation
+00:07:43.187000,"Picked up SM_Plate_Blueprint8
+"
+00:07:54.317000,"Picked up BP_FD_Rice_Fried_C_2147482489
+"
+00:07:59.047000,"Dropped BP_FD_Rice_Fried_C_2147482489
+"
+00:07:59.247000,"Placed BP_FD_Rice_Fried_C_2147482489 onto plate SM_Plate_Blueprint8
+"
+00:08:07.688000,"Picked up BP_FD_SalmonGrilled_C_2147482487
+"
+00:08:17.971000,"Dropped BP_FD_SalmonGrilled_C_2147482487
+"
+00:08:18.171000,"Placed BP_FD_SalmonGrilled_C_2147482487 onto plate SM_Plate_Blueprint8
+"
+00:08:36.032000,"Picked up SM_FD_Strawberry4
+"
+00:08:40.097000,"Dropped SM_FD_Strawberry4
+"
+00:08:40.320000,"Placed SM_FD_Strawberry4 onto plate SM_Plate_Blueprint8
+"
+00:08:41.276000,"Picked up SM_FD_Strawberry8
+"
+00:08:42.828000,"Dropped SM_FD_Strawberry8
+"
+00:08:43.052000,"Placed SM_FD_Strawberry8 onto plate SM_Plate_Blueprint8
+"
+00:08:45.162000,"Picked up SM_FD_Strawberry3
+"
+00:08:46.872000,"Placed SM_FD_Strawberry3 onto plate SM_Plate_Blueprint8
+"
+00:08:47.351000,"Dropped SM_FD_Strawberry3
+"
+00:08:48.293000,"Picked up SM_FD_Strawberry7
+"
+00:08:50.915000,"Placed SM_FD_Strawberry7 onto plate SM_Plate_Blueprint8
+"
+00:08:51.341000,"Dropped SM_FD_Strawberry7
+"
+00:08:53.847000,"Picked up SM_FD_Strawberry6
+"
+00:08:55.091000,"Dropped SM_FD_Strawberry6
+"
+00:08:55.689000,"Picked up SM_FD_Strawberry10
+"
+00:08:57.446000,"Dropped SM_FD_Strawberry10
+"
+00:08:57.712000,"Placed SM_FD_Strawberry10 onto plate SM_Plate_Blueprint8
+"
+00:08:59,"Picked up SM_FD_Strawberry5
+"
+00:09:00.822000,"Placed SM_FD_Strawberry5 onto plate SM_Plate_Blueprint8
+"
+00:09:01.071000,"Dropped SM_FD_Strawberry5
+"
+00:09:07.793000,"Picked up SM_FD_Cookies_ChocChip_3
+"
+00:09:10.081000,"Dropped SM_FD_Cookies_ChocChip_3
+"
+00:09:10.326000,"Placed SM_FD_Cookies_ChocChip_3 onto plate SM_Plate_Blueprint8
+"
+00:09:14.001000,"Dropped SM_Plate_Blueprint8
+"
+00:09:17.899000,"Picked up SM_Plate_Blueprint_2
+"
+00:09:21.277000,"Picked up BP_FD_GreenBeans_C_2147482485
+"
+00:09:35.448000,"Picked up SM_FD_PizzaBite_Veggie_2
+"
+00:09:36.690000,"Dropped SM_FD_PizzaBite_Veggie_2
+"
+00:09:36.891000,"Placed SM_FD_PizzaBite_Veggie_2 onto plate SM_Plate_Blueprint_2
+"
+00:09:37.847000,"Picked up SM_FD_PizzaBite_Veggie_01_5
+"
+00:09:39.112000,"Dropped SM_FD_PizzaBite_Veggie_01_5
+"
+00:09:39.356000,"Placed SM_FD_PizzaBite_Veggie_01_5 onto plate SM_Plate_Blueprint_2
+"
+00:09:26.008000,"Dropped BP_FD_GreenBeans_C_2147482485
+"
+00:09:26.230000,"Placed BP_FD_GreenBeans_C_2147482485 onto plate SM_Plate_Blueprint_2
+"
+00:09:58.258000,"Dropped SM_Plate_Blueprint_2
+"
+00:10:02.861000,"Picked up SM_BwlSm_Blueprint3
+"
+00:09:27.828000,"Picked up BP_FD_GreenBeans_C_2147482485
+"
+00:10:19.270000,"Dropped SM_BwlSm_Blueprint3
+"
+00:09:29.450000,"Dropped BP_FD_GreenBeans_C_2147482485
+"
+00:09:30.131000,"Placed BP_FD_GreenBeans_C_2147482485 onto plate SM_Plate_Blueprint_2
+"
+00:10:37.031000,"Picked up SM_BeverageCup_Blueprint_59
+"
+00:10:25.846000,"Picked up SM_BeverageCup_Blueprint4_219
+"
+00:10:54.165000,"Dropped SM_BeverageCup_Blueprint_59
+"
+00:10:55.186000,"Dropped SM_BeverageCup_Blueprint4_219
+"
+00:11:03.206000,"Picked up SM_FD_Strawberry8 from plate
+"
+00:11:04.738000,"Picked up SM_FD_Strawberry3 from plate
+"
+00:11:10.713000,"Dropped SM_FD_Strawberry8
+"
+00:11:10.801000,"Dropped SM_FD_Strawberry3
+"
+00:11:19.311000,"Picked up SM_FD_Grapes_06
+"
+00:11:23.354000,"Picked up SM_FD_Grapes_15
+"
+00:11:33.547000,"Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint8
+"
+00:11:33.859000,"Placed SM_FD_Grapes_06 onto plate SM_Plate_Blueprint8
+"
+00:11:34.502000,"Dropped SM_FD_Grapes_06
+"
+00:11:34.703000,"Placed SM_Plate_Blueprint_2 onto plate SM_Plate_Blueprint8
+"
+00:11:34.925000,"Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint8
+"
+00:11:36.300000,"Picked up SM_FD_Cookies_ChocChip_3 from plate
+"
+00:11:36.479000,"Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint8
+"
+00:11:36.946000,"Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint8
+"
+00:11:37.121000,"Dropped SM_FD_Cookies_ChocChip_3
+"
+00:11:37.188000,"Placed SM_FD_Cookies_ChocChip_3 onto plate SM_Plate_Blueprint_2
+"
+00:11:37.233000,"Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint8
+"
+00:11:37.547000,"Placed SM_FD_Grapes_06 onto plate SM_Plate_Blueprint8
+"
+00:11:38.900000,"Dropped SM_FD_Grapes_15
+"
+00:11:39.146000,"Placed SM_RegesterCounter_2 onto plate SM_Plate_Blueprint8
+"
+00:11:39.366000,"Placed SM_FD_Grapes_15 onto plate SM_Plate_Blueprint8
+"
+00:11:48.711000,"Picked up SM_BwlSm_Blueprint3
+"
+00:11:56.158000,"Dropped SM_BwlSm_Blueprint3
+"
