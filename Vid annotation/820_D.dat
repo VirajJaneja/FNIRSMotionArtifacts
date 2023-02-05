@@ -1,0 +1,56 @@
+2020/1/13 12:49:33.383 Picked up SM_Plate_Blueprint8
+2020/1/13 12:49:39.603 Picked up BP_FD_Rice_Brown_C_2147482549
+2020/1/13 12:49:43.402 Dropped BP_FD_Rice_Brown_C_2147482549
+2020/1/13 12:49:43.646 Placed BP_FD_Rice_Brown_C_2147482549 onto plate SM_Plate_Blueprint8
+2020/1/13 12:49:49.399 Picked up BP_FD_Chicken_Cajun_C_2147482547
+2020/1/13 12:49:51.419 Dropped BP_FD_Chicken_Cajun_C_2147482547
+2020/1/13 12:49:51.664 Placed BP_FD_Chicken_Cajun_C_2147482547 onto plate SM_Plate_Blueprint8
+2020/1/13 12:50:24.360 Picked up BP_FD_Pasta_White_C_2147482545
+2020/1/13 12:50:27.137 Dropped BP_FD_Pasta_White_C_2147482545
+2020/1/13 12:50:27.405 Placed BP_FD_Pasta_White_C_2147482545 onto plate SM_Plate_Blueprint8
+2020/1/13 12:50:29.92 Picked up BP_FD_Sauce_Marinara_C_2147482543
+2020/1/13 12:50:31.491 Dropped BP_FD_Sauce_Marinara_C_2147482543
+2020/1/13 12:50:31.779 Placed BP_FD_Sauce_Marinara_C_2147482543 onto plate SM_Plate_Blueprint8
+2020/1/13 12:50:40.509 Dropped SM_Plate_Blueprint8
+2020/1/13 12:50:43.816 Picked up SM_Plate_Blueprint7
+2020/1/13 12:50:49.575 Picked up SM_FD_Grapes_14
+2020/1/13 12:50:52.174 Dropped SM_FD_Grapes_14
+2020/1/13 12:50:52.374 Placed SM_FD_Grapes_14 onto plate SM_Plate_Blueprint7
+2020/1/13 12:50:53.374 Picked up SM_FD_Grapes_01_2
+2020/1/13 12:50:54.639 Dropped SM_FD_Grapes_01_2
+2020/1/13 12:50:55.660 Picked up SM_FD_Grapes_15
+2020/1/13 12:50:56.772 Dropped SM_FD_Grapes_15
+2020/1/13 12:50:56.817 Placed SM_FD_Grapes_15 onto plate SM_Plate_Blueprint7
+2020/1/13 12:50:57.550 Placed SM_FD_Grapes_01_2 onto plate SM_Plate_Blueprint7
+2020/1/13 12:50:58.372 Picked up SM_FD_Strawberry4
+2020/1/13 12:50:59.970 Dropped SM_FD_Strawberry4
+2020/1/13 12:51:0.191 Placed SM_FD_Strawberry4 onto plate SM_Plate_Blueprint7
+2020/1/13 12:51:0.814 Picked up SM_FD_Strawberry8
+2020/1/13 12:51:1.747 Dropped SM_FD_Strawberry8
+2020/1/13 12:51:11.141 Picked up SM_FD_Cookies_ChocChip_01_2
+2020/1/13 12:51:12.496 Dropped SM_FD_Cookies_ChocChip_01_2
+2020/1/13 12:51:12.740 Placed SM_FD_Cookies_ChocChip_01_2 onto plate SM_Plate_Blueprint7
+2020/1/13 12:51:14.560 Picked up SM_FD_Cookies_ChocChip_4
+2020/1/13 12:51:15.650 Dropped SM_FD_Cookies_ChocChip_4
+2020/1/13 12:51:19.648 Dropped SM_Plate_Blueprint7
+2020/1/13 12:51:28.887 Picked up SM_BeverageCup_Blueprint4_219
+2020/1/13 12:51:3.301 Picked up SM_FD_Strawberry6
+2020/1/13 12:51:47.56 Dropped SM_BeverageCup_Blueprint4_219
+2020/1/13 12:51:5.144 Dropped SM_FD_Strawberry6
+2020/1/13 12:51:5.390 Placed SM_FD_Strawberry6 onto plate SM_Plate_Blueprint7
+2020/1/13 12:51:7.55 Placed SM_FD_Strawberry8 onto plate SM_Plate_Blueprint7
+SKA_BeverageLiquid_Water_100%
+SM_FD_Chicken_Cajun_Prtn_006
+SM_FD_Cookies_ChocChip_01
+SM_FD_Cookies_ChocChip_01
+SM_FD_Grapes_01
+SM_FD_Grapes_02
+SM_FD_Grapes_02
+SM_FD_Pasta_White_Prtn_005
+SM_FD_Rice_Brown_Prtn_007
+SM_FD_Sauce_Marinara_Prtn_005
+SM_FD_Strawberry
+SM_FD_Strawberry
+SM_FD_Strawberry
+SM_Plate
+SM_Plate
